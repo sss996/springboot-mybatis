@@ -4,6 +4,5 @@ com\didispace\service\UserService.class
 com\didispace\service\impl\UserServiceImple.class
 com\didispace\Application.class
 com\didispace\typeHandler\SexTypeHandler.class
-com\didispace\bean\DataSourceShow.class
 com\didispace\bean\User.class
 com\didispace\connn\SexEnum.class

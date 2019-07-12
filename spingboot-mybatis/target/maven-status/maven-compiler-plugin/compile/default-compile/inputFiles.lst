@@ -1,9 +1,8 @@
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\dao\UserDao.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\connn\SexEnum.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\Application.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\bean\DataSourceShow.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\typeHandler\SexTypeHandler.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\bean\User.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\service\impl\UserServiceImple.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\service\UserService.java
-D:\springboot\spingdatajpa-master\spingdatajpa-master\src\main\java\com\didispace\web\UserController.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\dao\UserDao.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\service\impl\UserServiceImple.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\connn\SexEnum.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\Application.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\typeHandler\SexTypeHandler.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\web\UserController.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\bean\User.java
+D:\springboot\spingdatajpa-master\spingboot-mybatis\src\main\java\com\didispace\service\UserService.java
