@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<!--
+mapper 元素中 namespace 属性，指定一个接口；
+select 中 id 代指sql，parameterType 指参数类型，
+resultType 指定返回值类型，这里使用了user这是别名（通过POJO（User.java）中@Alias(name="user) ）
+指定的。如果没有指定，需要用全限定名（com.didispace.bean.User）
+-->
+<mapper namespace="com.didispace.dao.UserDao">
+    <select id="getUser" parameterType="long" resultType="user">
+        select id, username,sex,note from t_user where id = #{id}
+    </select>
+</mapper>
+
